@@ -10,7 +10,8 @@ These fields are availble:
 * page_count
 * volume_count
 
-This data is based on [Google English One Million 1-grams version 20090715](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
+This data is based on [Google English One Million 1-grams version 20090715](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html).
+
 Google N-grams is licensed under [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
 These files have been modified by taking only English One Million 1-grams that are entirely made of the letters A-Z (eg no punctuation or numbers, no accents or non-English characters).
 These ngrams have been put into a SQLite database, making queries like these easy:
