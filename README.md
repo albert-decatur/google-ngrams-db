@@ -36,5 +36,5 @@ cat $( find output_eng_1m_ascii.sqlite.7z/ -type f | sort ) > eng_1m_ascii.sqlit
 # unarchive the 7zip file to get the SQLite database
 7z x eng_1m_ascii.sqlite.7z
 # use the SQLite database
-sqlite3 eng_1m_ascii.sqlite.7z
+sqlite3 eng_1m_ascii.sqlite
 ```
