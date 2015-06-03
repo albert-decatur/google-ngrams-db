@@ -1,3 +1,5 @@
 input/
 output_ignore/
 eng_1m_ascii.tsv
+eng_1m_ascii.sqlite.7z
+eng_1m_ascii.sqlite
